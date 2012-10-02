@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>InfluenceMaximization_Hadoop_old</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.apache.hadoop.eclipse.Nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>lib/hadoop_1.0.3</name>
+			<type>2</type>
+			<location>C:/Users/ksarkar1/Dropbox/RanKloud/Kaushik/software/java/hadoop/hadoop_1.0.3</location>
+		</link>
+	</linkedResources>
+</projectDescription>
